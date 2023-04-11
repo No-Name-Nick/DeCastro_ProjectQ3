@@ -10,7 +10,7 @@ function GetPass(){
         }
     }else{
         if(UserName == "NoNameNick"&& PassWord == "PROJQ3"){
-            window.location.href = "\Website\Websites";
+            window.location.href = "DeCastro_ProjectQ3/Website/Websites/index.html";
         }else if (PassWord == ""){
             alert("Please enter password");
         }
