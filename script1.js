@@ -10,7 +10,7 @@ function GetPass(){
         }
     }else{
         if(UserName == "NoNameNick"&& PassWord == "PROJQ3"){
-            window.location.href = "index.html";
+            window.location.href = "\Website\Websites";
         }else if (PassWord == ""){
             alert("Please enter password");
         }
